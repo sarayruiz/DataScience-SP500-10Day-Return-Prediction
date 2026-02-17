@@ -32,7 +32,7 @@ The dataset contains over 620,000 daily records and 73 features, including adjus
 ## 🗂 Project Structure
 
 ```
-SP-ML-20-FINAL-PROJECT-G3/
+DATASCIENCE-SP500-10DAY-RETURN-PREDICTION/
 ├── 📁 .vscode/           # VSCode configurations
 ├── 📁 data/  
 │   ├── 📁 processed/     # Processed data ready for modeling
@@ -105,7 +105,7 @@ Yahoo Finance – https://es.finance.yahoo.com/quote/%5EGSPC/
 
 Clone the repository:
 ```
-git clone <https://github.com/4GeeksAcademy/sp-ml-20-final-project-g3>
+git clone <https://github.com/sarayruiz/DataScience-SP500-10Day-Return-Prediction>
 ```
 
 Install dependencies:

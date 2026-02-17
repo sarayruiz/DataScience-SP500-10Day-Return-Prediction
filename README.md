@@ -32,7 +32,7 @@ El dataset contiene más de 620,000 registros diarios y 73 características, inc
 ## 🗂 Estructura del Proyecto
 
 ```
-SP-ML-20-FINAL-PROJECT-G3/
+DATASCIENCE-SP500-10DAY-RETURN-PREDICTION/
 ├── 📁 .vscode/           # Configuraciones de VSCode  
 ├── 📁 data/  
 │   ├── 📁 processed/     # Datos procesados y listos para modelar  
@@ -105,7 +105,7 @@ Yahoo Finanzas – https://es.finance.yahoo.com/quote/%5EGSPC/
 
 Clonar el repositorio:
 ```
-git clone <https://github.com/4GeeksAcademy/sp-ml-20-final-project-g3>
+git clone <https://github.com/sarayruiz/DataScience-SP500-10Day-Return-Prediction>
 ```
 
 Instalar dependencias:
